@@ -1,5 +1,5 @@
 # Trustless_Trust-P2P-chat-network-
-This a Peer-to-Peer Chat Application made by Nityam Gupta, Nitin, Ajay Sonamani. (Group-name: Trustless_less)
+This a Peer-to-Peer Chat Application made by Nityam Gupta, Nitin, Ajay Sonamani. (Group-name: Trustless_Trust)
 We have also done the bonus question.
 
 # P2P Chat Application
