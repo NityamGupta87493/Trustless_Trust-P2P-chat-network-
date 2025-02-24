@@ -120,13 +120,6 @@ This application provides a basic framework for P2P communication. Peers can sen
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Happy chatting!
 
 
 
